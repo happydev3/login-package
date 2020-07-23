@@ -1,0 +1,28 @@
+{
+    "login": "Login",
+    "enter": "Enter",
+    "english": "English",
+    "spanish": "Spanish",
+    "portuguese": "Portuguese",
+    "contractor": "Contractor",
+    "username": "Username",
+    "password": "Password",
+    "remind": "Remind me",
+    "forget": "Forgot Password",
+    "login.contractor.placeholder": "Enter your contractor ID",
+    "login.username.placeholder": "Enter your username",
+    "login.password.placeholder": "Enter your password",
+    "reset.password": "Reset Password",
+    "reset.confirm": "Confirm",
+    "reset.password.description": "Enter the code in the field below",
+    "reset.code": "Code",
+
+    "forgot.invalid.data": "Invalid data. Please try again",
+    "login.invalid.data": "Invalid contactor or username or password",
+    "reset.confirm.match": "ConfirmPassword doesn't match with password",
+    "reset.newpassword": "New Password",
+    "reset.confirmpassword": "Confirm Password",
+    "reset.invalid.code": "Invalid code. Please try again",
+    "reset.check.code": "Didn't you get the code",
+    "reset.sendagain": "Send again"
+}
