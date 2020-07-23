@@ -611,7 +611,7 @@ class Login extends React.Component {
                                                 </div>
                                             </div>
                                             :
-                                            <div>
+                                            <div class="forms">
                                                 <div className="reset-form">
                                                     <div className="reset-form-header pb-5">
                                                         <h2><FormattedMessage id="reset.password"/></h2>
