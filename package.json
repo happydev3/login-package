@@ -51,7 +51,7 @@
     "dist"
   ],
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
     "node-sass": "^4.14.1",
     "react-bootstrap": "^1.2.2",
